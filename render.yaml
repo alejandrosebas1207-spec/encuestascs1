@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: encuestascs3
+    name: encuestascs1
     env: node
     plan: free
     branch: main
