@@ -1,11 +1,11 @@
 /* Modo de contingencia Clima Social: conserva aplicación base y cartografía.
  * No almacena respuestas de Kobo ni coordenadas de encuestas en el teléfono. */
-const CACHE_NAME = 'clima-social-v108-1-esmeraldas-standby';
+const CACHE_NAME = 'clima-social-v108-2-esmeraldas-standby';
 const APP_SHELL = [
   '/',
   '/index.html',
-  '/style.css?v=108.0.1',
-  '/script.js?v=108.0.1',
+  '/style.css?v=108.0.2',
+  '/script.js?v=108.0.2',
   '/libs/maplibre-gl.js',
   '/libs/maplibre-gl.css',
   '/assets/icono.png',
