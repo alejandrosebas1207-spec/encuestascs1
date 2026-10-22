@@ -1,6 +1,6 @@
 /* Modo de contingencia Clima Social: conserva aplicación base y cartografía.
  * No almacena respuestas de Kobo ni coordenadas de encuestas en el teléfono. */
-const CACHE_NAME = 'clima-social-el-oro-1792674739';
+const CACHE_NAME = 'clima-social-el-oro-1792676230';
 const APP_SHELL = [
   '/',
   '/index.html',
