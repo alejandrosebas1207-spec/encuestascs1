@@ -1726,8 +1726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99323,
-          -3.26112
+          -79.98865,
+          -3.25609
         ]
       },
       "properties": {
@@ -1736,13 +1736,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "PARQUE BARRIO AMAZONAS",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 3058.3,
-        "DIST_BORDE_M": 250.3,
+        "PUNTO_REFERENCIAL": "COLEGIO DE BACHILLERATO SIMON BOLIVAR",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 2354.2,
+        "DIST_BORDE_M": 341.2,
         "ETIQUETA": "41 | F",
-        "COORD_X": 611853.82,
-        "COORD_Y": 9639488.06,
+        "COORD_X": 612363.56,
+        "COORD_Y": 9640044.41,
         "num_muestra": 41,
         "sc": "41",
         "etiqueta": "41 | F",
@@ -1751,15 +1751,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE BARRIO AMAZONAS",
+        "punto_referencial": "COLEGIO DE BACHILLERATO SIMON BOLIVAR",
         "bbox": [
           [
-            -79.99323,
-            -3.26112
+            -79.98865,
+            -3.25609
           ],
           [
-            -79.99323,
-            -3.26112
+            -79.98865,
+            -3.25609
           ]
         ]
       }
@@ -1769,8 +1769,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99349,
-          -3.25897
+          -79.98876,
+          -3.25312
         ]
       },
       "properties": {
@@ -1779,13 +1779,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "B",
-        "PUNTO_REFERENCIAL": "ESCUELA MANUEL ISAAC ENCALADA MORA",
+        "PUNTO_REFERENCIAL": "ESCUELA FISCAL \"SARA SERRANO\"",
         "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
-        "DIST_PELIGRO_M": 2975.1,
-        "DIST_BORDE_M": 486.6,
+        "DIST_PELIGRO_M": 2256.0,
+        "DIST_BORDE_M": 450.9,
         "ETIQUETA": "42 | B",
-        "COORD_X": 611825.55,
-        "COORD_Y": 9639726.68,
+        "COORD_X": 612351.8,
+        "COORD_Y": 9640372.31,
         "num_muestra": 42,
         "sc": "42",
         "etiqueta": "42 | B",
@@ -1794,15 +1794,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "ESCUELA MANUEL ISAAC ENCALADA MORA",
+        "punto_referencial": "ESCUELA FISCAL \"SARA SERRANO\"",
         "bbox": [
           [
-            -79.99349,
-            -3.25897
+            -79.98876,
+            -3.25312
           ],
           [
-            -79.99349,
-            -3.25897
+            -79.98876,
+            -3.25312
           ]
         ]
       }
@@ -1812,8 +1812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99075,
-          -3.26052
+          -79.98978,
+          -3.25642
         ]
       },
       "properties": {
@@ -1822,13 +1822,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "H",
-        "PUNTO_REFERENCIAL": "CASA DE ORACION TALLER DEL MAESTRO DEL GRAN PODER",
-        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
-        "DIST_PELIGRO_M": 2786.4,
-        "DIST_BORDE_M": 201.1,
+        "PUNTO_REFERENCIAL": "CASA COMUNAL DEL BARRIO PRIMERO DE ABRIL",
+        "TIPO_EQUIPAMIENTO": "CASA COMUNAL",
+        "DIST_PELIGRO_M": 2484.8,
+        "DIST_BORDE_M": 349.2,
         "ETIQUETA": "43 | H",
-        "COORD_X": 612129.26,
-        "COORD_Y": 9639554.44,
+        "COORD_X": 612237.46,
+        "COORD_Y": 9640007.24,
         "num_muestra": 43,
         "sc": "43",
         "etiqueta": "43 | H",
@@ -1837,15 +1837,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "CASA DE ORACION TALLER DEL MAESTRO DEL GRAN PODER",
+        "punto_referencial": "CASA COMUNAL DEL BARRIO PRIMERO DE ABRIL",
         "bbox": [
           [
-            -79.99075,
-            -3.26052
+            -79.98978,
+            -3.25642
           ],
           [
-            -79.99075,
-            -3.26052
+            -79.98978,
+            -3.25642
           ]
         ]
       }
