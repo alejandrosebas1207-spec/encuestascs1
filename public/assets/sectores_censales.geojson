@@ -651,40 +651,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96276,
-          -3.26075
+          -79.95393,
+          -3.2561
         ]
       },
       "properties": {
         "CODIGO": 16,
-        "PARROQUIA": "MACHALA",
+        "PARROQUIA": "JUBONES",
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "H",
-        "PUNTO_REFERENCIAL": "REGISTRO DE LA PROPIEDAD",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 1018.8,
-        "DIST_BORDE_M": 294.9,
+        "PUNTO_REFERENCIAL": "ESCUELA DE EDUC. BASICA PROF. ALBERTO CRUZ MURILLO",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 1281.2,
+        "DIST_BORDE_M": 334.1,
         "ETIQUETA": "16 | H",
-        "COORD_X": 615239.25,
-        "COORD_Y": 9639525.76,
+        "COORD_X": 616221.13,
+        "COORD_Y": 9640039.33,
         "num_muestra": 16,
         "sc": "16",
         "etiqueta": "16 | H",
         "etiquetaSC": "16 | H",
         "tipologia": "H",
-        "parroquia": "MACHALA",
+        "parroquia": "JUBONES",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "REGISTRO DE LA PROPIEDAD",
+        "punto_referencial": "ESCUELA DE EDUC. BASICA PROF. ALBERTO CRUZ MURILLO",
         "bbox": [
           [
-            -79.96276,
-            -3.26075
+            -79.95393,
+            -3.2561
           ],
           [
-            -79.96276,
-            -3.26075
+            -79.95393,
+            -3.2561
           ]
         ]
       }
@@ -694,40 +694,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96187,
-          -3.26194
+          -79.9447,
+          -3.24786
         ]
       },
       "properties": {
         "CODIGO": 17,
-        "PARROQUIA": "MACHALA",
+        "PARROQUIA": "JUBONES",
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "E",
-        "PUNTO_REFERENCIAL": "CLINICA ALFA",
-        "TIPO_EQUIPAMIENTO": "ESTABLECIMIENTO DE SALUD",
-        "DIST_PELIGRO_M": 854.7,
-        "DIST_BORDE_M": 455.5,
+        "PUNTO_REFERENCIAL": "LUZ DEL MUNDO",
+        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
+        "DIST_PELIGRO_M": 1154.0,
+        "DIST_BORDE_M": 343.8,
         "ETIQUETA": "17 | E",
-        "COORD_X": 615338.3,
-        "COORD_Y": 9639394.66,
+        "COORD_X": 617247.35,
+        "COORD_Y": 9640948.8,
         "num_muestra": 17,
         "sc": "17",
         "etiqueta": "17 | E",
         "etiquetaSC": "17 | E",
         "tipologia": "E",
-        "parroquia": "MACHALA",
+        "parroquia": "JUBONES",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "CLINICA ALFA",
+        "punto_referencial": "LUZ DEL MUNDO",
         "bbox": [
           [
-            -79.96187,
-            -3.26194
+            -79.9447,
+            -3.24786
           ],
           [
-            -79.96187,
-            -3.26194
+            -79.9447,
+            -3.24786
           ]
         ]
       }
@@ -1726,8 +1726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99733,
-          -3.25059
+          -79.99323,
+          -3.26112
         ]
       },
       "properties": {
@@ -1736,13 +1736,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "CONSULTORIO GENERAL BIMJAM",
-        "TIPO_EQUIPAMIENTO": "ESTABLECIMIENTO DE SALUD",
-        "DIST_PELIGRO_M": 3142.4,
-        "DIST_BORDE_M": 271.5,
+        "PUNTO_REFERENCIAL": "PARQUE BARRIO AMAZONAS",
+        "TIPO_EQUIPAMIENTO": "PARQUE",
+        "DIST_PELIGRO_M": 3058.3,
+        "DIST_BORDE_M": 250.3,
         "ETIQUETA": "41 | F",
-        "COORD_X": 611399.63,
-        "COORD_Y": 9640652.64,
+        "COORD_X": 611853.82,
+        "COORD_Y": 9639488.06,
         "num_muestra": 41,
         "sc": "41",
         "etiqueta": "41 | F",
@@ -1751,15 +1751,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "CONSULTORIO GENERAL BIMJAM",
+        "punto_referencial": "PARQUE BARRIO AMAZONAS",
         "bbox": [
           [
-            -79.99733,
-            -3.25059
+            -79.99323,
+            -3.26112
           ],
           [
-            -79.99733,
-            -3.25059
+            -79.99323,
+            -3.26112
           ]
         ]
       }
@@ -1812,8 +1812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99939,
-          -3.2675
+          -79.99075,
+          -3.26052
         ]
       },
       "properties": {
@@ -1822,13 +1822,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "H",
-        "PUNTO_REFERENCIAL": "ESCUELA DE EDUCACION BASICA 24 DE JULIO",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
-        "DIST_PELIGRO_M": 3731.2,
-        "DIST_BORDE_M": 349.9,
+        "PUNTO_REFERENCIAL": "CASA DE ORACION TALLER DEL MAESTRO DEL GRAN PODER",
+        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
+        "DIST_PELIGRO_M": 2786.4,
+        "DIST_BORDE_M": 201.1,
         "ETIQUETA": "43 | H",
-        "COORD_X": 611168.17,
-        "COORD_Y": 9638784.29,
+        "COORD_X": 612129.26,
+        "COORD_Y": 9639554.44,
         "num_muestra": 43,
         "sc": "43",
         "etiqueta": "43 | H",
@@ -1837,15 +1837,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "ESCUELA DE EDUCACION BASICA 24 DE JULIO",
+        "punto_referencial": "CASA DE ORACION TALLER DEL MAESTRO DEL GRAN PODER",
         "bbox": [
           [
-            -79.99939,
-            -3.2675
+            -79.99075,
+            -3.26052
           ],
           [
-            -79.99939,
-            -3.2675
+            -79.99075,
+            -3.26052
           ]
         ]
       }
@@ -1855,8 +1855,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.98865,
-          -3.25609
+          -79.98682,
+          -3.25667
         ]
       },
       "properties": {
@@ -1865,13 +1865,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "D",
-        "PUNTO_REFERENCIAL": "COLEGIO DE BACHILLERATO SIMON BOLIVAR",
+        "PUNTO_REFERENCIAL": "ESCUELA DE EDUCACION BASICA CARLOTA RODAS CUERVO",
         "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
-        "DIST_PELIGRO_M": 2354.2,
-        "DIST_BORDE_M": 341.2,
+        "DIST_PELIGRO_M": 2197.7,
+        "DIST_BORDE_M": 184.6,
         "ETIQUETA": "44 | D",
-        "COORD_X": 612363.56,
-        "COORD_Y": 9640044.41,
+        "COORD_X": 612566.97,
+        "COORD_Y": 9639979.25,
         "num_muestra": 44,
         "sc": "44",
         "etiqueta": "44 | D",
@@ -1880,15 +1880,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "COLEGIO DE BACHILLERATO SIMON BOLIVAR",
+        "punto_referencial": "ESCUELA DE EDUCACION BASICA CARLOTA RODAS CUERVO",
         "bbox": [
           [
-            -79.98865,
-            -3.25609
+            -79.98682,
+            -3.25667
           ],
           [
-            -79.98865,
-            -3.25609
+            -79.98682,
+            -3.25667
           ]
         ]
       }
@@ -1898,8 +1898,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99661,
-          -3.26921
+          -79.99063,
+          -3.25688
         ]
       },
       "properties": {
@@ -1908,13 +1908,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "E",
-        "PUNTO_REFERENCIAL": "INIDAD MEDICA ROMERO CABRERA LEON",
-        "TIPO_EQUIPAMIENTO": "ESTABLECIMIENTO DE SALUD",
-        "DIST_PELIGRO_M": 3394.8,
-        "DIST_BORDE_M": 269.5,
+        "PUNTO_REFERENCIAL": "POLICIA JUDICIAL EL ORO",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
+        "DIST_PELIGRO_M": 2590.7,
+        "DIST_BORDE_M": 358.3,
         "ETIQUETA": "45 | E",
-        "COORD_X": 611477.14,
-        "COORD_Y": 9638594.16,
+        "COORD_X": 612143.76,
+        "COORD_Y": 9639956.92,
         "num_muestra": 45,
         "sc": "45",
         "etiqueta": "45 | E",
@@ -1923,15 +1923,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "INIDAD MEDICA ROMERO CABRERA LEON",
+        "punto_referencial": "POLICIA JUDICIAL EL ORO",
         "bbox": [
           [
-            -79.99661,
-            -3.26921
+            -79.99063,
+            -3.25688
           ],
           [
-            -79.99661,
-            -3.26921
+            -79.99063,
+            -3.25688
           ]
         ]
       }
@@ -1941,8 +1941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99634,
-          -3.25388
+          -79.98765,
+          -3.25406
         ]
       },
       "properties": {
@@ -1951,13 +1951,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "D",
-        "PUNTO_REFERENCIAL": "COLEGIO LICEO NAVAL DE JAMBELI",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
-        "DIST_PELIGRO_M": 3093.6,
-        "DIST_BORDE_M": 296.0,
+        "PUNTO_REFERENCIAL": "PARQUE SIMON BOLIVAR",
+        "TIPO_EQUIPAMIENTO": "PARQUE",
+        "DIST_PELIGRO_M": 2169.0,
+        "DIST_BORDE_M": 334.0,
         "ETIQUETA": "46 | D",
-        "COORD_X": 611509.07,
-        "COORD_Y": 9640288.88,
+        "COORD_X": 612475.09,
+        "COORD_Y": 9640268.66,
         "num_muestra": 46,
         "sc": "46",
         "etiqueta": "46 | D",
@@ -1966,15 +1966,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "COLEGIO LICEO NAVAL DE JAMBELI",
+        "punto_referencial": "PARQUE SIMON BOLIVAR",
         "bbox": [
           [
-            -79.99634,
-            -3.25388
+            -79.98765,
+            -3.25406
           ],
           [
-            -79.99634,
-            -3.25388
+            -79.98765,
+            -3.25406
           ]
         ]
       }
@@ -1984,8 +1984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.99804,
-          -3.26391
+          -79.98919,
+          -3.25142
         ]
       },
       "properties": {
@@ -1994,13 +1994,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "B",
-        "PUNTO_REFERENCIAL": "AUTORIDAD PORTUARIA PUERTO BOLIVAR",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 3675.1,
-        "DIST_BORDE_M": 361.9,
+        "PUNTO_REFERENCIAL": "JESUS CRISTO ES EL REY",
+        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
+        "DIST_PELIGRO_M": 2260.7,
+        "DIST_BORDE_M": 476.2,
         "ETIQUETA": "47 | B",
-        "COORD_X": 611319.28,
-        "COORD_Y": 9639180.15,
+        "COORD_X": 612303.28,
+        "COORD_Y": 9640559.98,
         "num_muestra": 47,
         "sc": "47",
         "etiqueta": "47 | B",
@@ -2009,15 +2009,15 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "AUTORIDAD PORTUARIA PUERTO BOLIVAR",
+        "punto_referencial": "JESUS CRISTO ES EL REY",
         "bbox": [
           [
-            -79.99804,
-            -3.26391
+            -79.98919,
+            -3.25142
           ],
           [
-            -79.99804,
-            -3.26391
+            -79.98919,
+            -3.25142
           ]
         ]
       }
