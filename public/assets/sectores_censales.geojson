@@ -32,6 +32,7 @@
         "circunscripcion": "CIRCUNSCRIPCION RURAL",
         "canton": "MACHALA",
         "punto_referencial": "UNIDAD EDUCATIVA 9 DE MAYO",
+        "casos": 10,
         "bbox": [
           [
             -79.90809,
@@ -75,6 +76,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "CENTRO DE TERAPIA FISICA CRUZ ROJA EL ORO",
+        "casos": 10,
         "bbox": [
           [
             -79.96067,
@@ -118,6 +120,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA PARTICULAR CATOLICA VIRGEN DE AMERICA",
+        "casos": 10,
         "bbox": [
           [
             -79.98057,
@@ -135,8 +138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.97684,
-          -3.25855
+          -79.97578,
+          -3.25861
         ]
       },
       "properties": {
@@ -145,13 +148,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "G",
-        "PUNTO_REFERENCIAL": "PARQUE MARTHA BUCARAM",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 1475.3,
-        "DIST_BORDE_M": 323.1,
+        "PUNTO_REFERENCIAL": "CASA COMUNAL CDLA. MARTHA BUCARAM DE ROLDOS",
+        "TIPO_EQUIPAMIENTO": "CASA COMUNAL",
+        "DIST_PELIGRO_M": 1416.2,
+        "DIST_BORDE_M": 381.6,
         "ETIQUETA": "4 | G",
-        "COORD_X": 613675.21,
-        "COORD_Y": 9639771.03,
+        "COORD_X": 613793.4,
+        "COORD_Y": 9639764.5,
         "num_muestra": 4,
         "sc": "4",
         "etiqueta": "4 | G",
@@ -160,15 +163,16 @@
         "parroquia": "JAMBELI",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE MARTHA BUCARAM",
+        "punto_referencial": "CASA COMUNAL CDLA. MARTHA BUCARAM DE ROLDOS",
+        "casos": 10,
         "bbox": [
           [
-            -79.97684,
-            -3.25855
+            -79.97578,
+            -3.25861
           ],
           [
-            -79.97684,
-            -3.25855
+            -79.97578,
+            -3.25861
           ]
         ]
       }
@@ -204,6 +208,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "UNIDAD EDUCATIVA UNION NACIONAL DE EDUCADORES",
+        "casos": 10,
         "bbox": [
           [
             -79.97434,
@@ -247,6 +252,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "CENTRO MEDICO MUNDIAL 25 DE DICIEMBRE SALUD MUNDIA",
+        "casos": 10,
         "bbox": [
           [
             -79.97174,
@@ -290,6 +296,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "CENTRO DE SALUD BUENOS AIRES",
+        "casos": 10,
         "bbox": [
           [
             -79.96469,
@@ -333,6 +340,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA EVANGELICA FILADOLFIA EN EL ECUADOR",
+        "casos": 10,
         "bbox": [
           [
             -79.9727,
@@ -376,6 +384,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "EL MUNDO DE LOS NIAOS",
+        "casos": 10,
         "bbox": [
           [
             -79.97582,
@@ -419,6 +428,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA FISCAL 25 DE JUNIO",
+        "casos": 10,
         "bbox": [
           [
             -79.96775,
@@ -436,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96662,
-          -3.25642
+          -79.97633,
+          -3.25285
         ]
       },
       "properties": {
@@ -446,13 +456,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "HIAS ACOGER AL EXTRANJERO PROTEGER AL REFUGIADO",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 1013.3,
-        "DIST_BORDE_M": 342.2,
+        "PUNTO_REFERENCIAL": "UNIVERSIDAD TECNICA PARTICULAR DE LOJA",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 979.4,
+        "DIST_BORDE_M": 924.8,
         "ETIQUETA": "11 | F",
-        "COORD_X": 614811.15,
-        "COORD_Y": 9640004.8,
+        "COORD_X": 613733.1,
+        "COORD_Y": 9640400.9,
         "num_muestra": 11,
         "sc": "11",
         "etiqueta": "11 | F",
@@ -461,15 +471,16 @@
         "parroquia": "JAMBELI",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "HIAS ACOGER AL EXTRANJERO PROTEGER AL REFUGIADO",
+        "punto_referencial": "UNIVERSIDAD TECNICA PARTICULAR DE LOJA",
+        "casos": 10,
         "bbox": [
           [
-            -79.96662,
-            -3.25642
+            -79.97633,
+            -3.25285
           ],
           [
-            -79.96662,
-            -3.25642
+            -79.97633,
+            -3.25285
           ]
         ]
       }
@@ -505,6 +516,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "CAPILLA VIRGEN DE LA MERCED",
+        "casos": 10,
         "bbox": [
           [
             -79.9808,
@@ -522,8 +534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96992,
-          -3.25579
+          -79.97403,
+          -3.2523
         ]
       },
       "properties": {
@@ -532,13 +544,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "C",
-        "PUNTO_REFERENCIAL": "COLISEO",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 905.4,
-        "DIST_BORDE_M": 665.3,
+        "PUNTO_REFERENCIAL": "UNIDAD EDUCATIVA 24 DE MAYO",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 745.1,
+        "DIST_BORDE_M": 1080.4,
         "ETIQUETA": "13 | C",
-        "COORD_X": 614444.97,
-        "COORD_Y": 9640075.01,
+        "COORD_X": 613987.7,
+        "COORD_Y": 9640460.9,
         "num_muestra": 13,
         "sc": "13",
         "etiqueta": "13 | C",
@@ -547,15 +559,16 @@
         "parroquia": "JAMBELI",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "COLISEO",
+        "punto_referencial": "UNIDAD EDUCATIVA 24 DE MAYO",
+        "casos": 10,
         "bbox": [
           [
-            -79.96992,
-            -3.25579
+            -79.97403,
+            -3.2523
           ],
           [
-            -79.96992,
-            -3.25579
+            -79.97403,
+            -3.2523
           ]
         ]
       }
@@ -565,8 +578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.97386,
-          -3.24731
+          -79.98199,
+          -3.25098
         ]
       },
       "properties": {
@@ -575,13 +588,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "D",
-        "PUNTO_REFERENCIAL": "IGLESIA PENTECOSTES PENA DE HOREB",
-        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
-        "DIST_PELIGRO_M": 518.8,
-        "DIST_BORDE_M": 1240.6,
+        "PUNTO_REFERENCIAL": "ESCUELA DE E.B. \"VICTOR ANTONIO MORENO MOSQUERA\"",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 1468.1,
+        "DIST_BORDE_M": 314.4,
         "ETIQUETA": "14 | D",
-        "COORD_X": 614007.73,
-        "COORD_Y": 9641013.29,
+        "COORD_X": 613104.2,
+        "COORD_Y": 9640608.2,
         "num_muestra": 14,
         "sc": "14",
         "etiqueta": "14 | D",
@@ -590,15 +603,16 @@
         "parroquia": "JAMBELI",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "IGLESIA PENTECOSTES PENA DE HOREB",
+        "punto_referencial": "ESCUELA DE E.B. \"VICTOR ANTONIO MORENO MOSQUERA\"",
+        "casos": 10,
         "bbox": [
           [
-            -79.97386,
-            -3.24731
+            -79.98199,
+            -3.25098
           ],
           [
-            -79.97386,
-            -3.24731
+            -79.98199,
+            -3.25098
           ]
         ]
       }
@@ -634,6 +648,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DR. BENJAMIN CARRION MORA",
+        "casos": 10,
         "bbox": [
           [
             -79.95051,
@@ -677,6 +692,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUC. BASICA PROF. ALBERTO CRUZ MURILLO",
+        "casos": 10,
         "bbox": [
           [
             -79.95393,
@@ -720,6 +736,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "LUZ DEL MUNDO",
+        "casos": 10,
         "bbox": [
           [
             -79.9447,
@@ -763,6 +780,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA NEW LIFE",
+        "casos": 10,
         "bbox": [
           [
             -79.96183,
@@ -806,6 +824,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "MINISTERIO DE DEFENSA",
+        "casos": 10,
         "bbox": [
           [
             -79.96025,
@@ -849,6 +868,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA BOLIVIA BENITEZ",
+        "casos": 10,
         "bbox": [
           [
             -79.95599,
@@ -892,6 +912,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA AUGUSTA MORA DE FRANCO",
+        "casos": 10,
         "bbox": [
           [
             -79.96098,
@@ -935,6 +956,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "UNIVERSIDAD METROPOLITANA",
+        "casos": 10,
         "bbox": [
           [
             -79.9583,
@@ -978,6 +1000,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "EMPRESA PUBLICA MUNICIPAL DE MOVILIDAD DE MACHALA",
+        "casos": 10,
         "bbox": [
           [
             -79.96328,
@@ -1021,6 +1044,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "MERCADO DE MI CIUDAD",
+        "casos": 10,
         "bbox": [
           [
             -79.96838,
@@ -1064,6 +1088,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "UNIDAD EDUCATIVA CIUDAD DE MACHALA",
+        "casos": 10,
         "bbox": [
           [
             -79.95999,
@@ -1107,6 +1132,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "MINISTERIO DE TURISMO",
+        "casos": 10,
         "bbox": [
           [
             -79.9572,
@@ -1150,6 +1176,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "BAN ECUADOR",
+        "casos": 10,
         "bbox": [
           [
             -79.95884,
@@ -1193,6 +1220,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "FISCALIA GENERAL DEL ESTADO",
+        "casos": 10,
         "bbox": [
           [
             -79.95997,
@@ -1210,8 +1238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96483,
-          -3.26499
+          -79.95764,
+          -3.25938
         ]
       },
       "properties": {
@@ -1220,13 +1248,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "POLIDEPORTIVO MACHALA",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 938.7,
-        "DIST_BORDE_M": 423.8,
+        "PUNTO_REFERENCIAL": "ESCUELA DE EDUCACION BASICA ISABEL LA CATOLICA",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 934.4,
+        "DIST_BORDE_M": 215.4,
         "ETIQUETA": "29 | F",
-        "COORD_X": 615009.38,
-        "COORD_Y": 9639057.53,
+        "COORD_X": 615808.5,
+        "COORD_Y": 9639676.4,
         "num_muestra": 29,
         "sc": "29",
         "etiqueta": "29 | F",
@@ -1235,15 +1263,16 @@
         "parroquia": "MACHALA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "POLIDEPORTIVO MACHALA",
+        "punto_referencial": "ESCUELA DE EDUCACION BASICA ISABEL LA CATOLICA",
+        "casos": 10,
         "bbox": [
           [
-            -79.96483,
-            -3.26499
+            -79.95764,
+            -3.25938
           ],
           [
-            -79.96483,
-            -3.26499
+            -79.95764,
+            -3.25938
           ]
         ]
       }
@@ -1279,6 +1308,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIO BACHILLERATO NUEVE DE MAYO",
+        "casos": 10,
         "bbox": [
           [
             -79.96453,
@@ -1296,8 +1326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96741,
-          -3.26831
+          -79.96276,
+          -3.26075
         ]
       },
       "properties": {
@@ -1306,13 +1336,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "H",
-        "PUNTO_REFERENCIAL": "PLAZOLETA DE LA LIBERTAD DE EXPRESION",
-        "TIPO_EQUIPAMIENTO": "PLAZA",
-        "DIST_PELIGRO_M": 607.2,
-        "DIST_BORDE_M": 196.6,
+        "PUNTO_REFERENCIAL": "REGISTRO DE LA PROPIEDAD",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
+        "DIST_PELIGRO_M": 1018.8,
+        "DIST_BORDE_M": 294.8,
         "ETIQUETA": "31 | H",
-        "COORD_X": 614721.88,
-        "COORD_Y": 9638690.41,
+        "COORD_X": 615239.2,
+        "COORD_Y": 9639525.8,
         "num_muestra": 31,
         "sc": "31",
         "etiqueta": "31 | H",
@@ -1321,15 +1351,16 @@
         "parroquia": "MACHALA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "PLAZOLETA DE LA LIBERTAD DE EXPRESION",
+        "punto_referencial": "REGISTRO DE LA PROPIEDAD",
+        "casos": 10,
         "bbox": [
           [
-            -79.96741,
-            -3.26831
+            -79.96276,
+            -3.26075
           ],
           [
-            -79.96741,
-            -3.26831
+            -79.96276,
+            -3.26075
           ]
         ]
       }
@@ -1365,6 +1396,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "DEPARTAMENTOS DEL IESS CAMPESINO SALUD PENSIONES",
+        "casos": 10,
         "bbox": [
           [
             -79.96153,
@@ -1408,6 +1440,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA FISCAL ENRIQUE MORA",
+        "casos": 10,
         "bbox": [
           [
             -79.96706,
@@ -1451,6 +1484,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA CENTRO DE VIDA",
+        "casos": 10,
         "bbox": [
           [
             -79.9619,
@@ -1494,6 +1528,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "MERCADO SUR",
+        "casos": 10,
         "bbox": [
           [
             -79.95945,
@@ -1511,8 +1546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.95814,
-          -3.26003
+          -79.96736,
+          -3.26794
         ]
       },
       "properties": {
@@ -1521,13 +1556,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "PARQUE DIEGO MANUCHE",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 870.5,
-        "DIST_BORDE_M": 304.2,
+        "PUNTO_REFERENCIAL": "IGLESIA CRISTIANA PALABRA ETERNA",
+        "TIPO_EQUIPAMIENTO": "TEMPLO RELIGIOSO",
+        "DIST_PELIGRO_M": 646.2,
+        "DIST_BORDE_M": 236.2,
         "ETIQUETA": "36 | F",
-        "COORD_X": 615753.46,
-        "COORD_Y": 9639604.92,
+        "COORD_X": 614727.7,
+        "COORD_Y": 9638731.1,
         "num_muestra": 36,
         "sc": "36",
         "etiqueta": "36 | F",
@@ -1536,15 +1571,16 @@
         "parroquia": "MACHALA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE DIEGO MANUCHE",
+        "punto_referencial": "IGLESIA CRISTIANA PALABRA ETERNA",
+        "casos": 10,
         "bbox": [
           [
-            -79.95814,
-            -3.26003
+            -79.96736,
+            -3.26794
           ],
           [
-            -79.95814,
-            -3.26003
+            -79.96736,
+            -3.26794
           ]
         ]
       }
@@ -1580,6 +1616,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "AGENCIA NACIONAL DE TRANSITO",
+        "casos": 10,
         "bbox": [
           [
             -79.96373,
@@ -1623,6 +1660,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "COMANDO PROVINCIAL DE POLICIA DEL ORO",
+        "casos": 10,
         "bbox": [
           [
             -79.96334,
@@ -1666,6 +1704,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "BANCO GENERAL RUMIÑAHUI",
+        "casos": 10,
         "bbox": [
           [
             -79.95815,
@@ -1709,6 +1748,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA LA CATEDRAL",
+        "casos": 10,
         "bbox": [
           [
             -79.9602,
@@ -1752,6 +1792,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIO DE BACHILLERATO SIMON BOLIVAR",
+        "casos": 10,
         "bbox": [
           [
             -79.98865,
@@ -1795,6 +1836,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA FISCAL \"SARA SERRANO\"",
+        "casos": 10,
         "bbox": [
           [
             -79.98876,
@@ -1838,6 +1880,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "CASA COMUNAL DEL BARRIO PRIMERO DE ABRIL",
+        "casos": 10,
         "bbox": [
           [
             -79.98978,
@@ -1881,6 +1924,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA CARLOTA RODAS CUERVO",
+        "casos": 10,
         "bbox": [
           [
             -79.98682,
@@ -1924,6 +1968,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "POLICIA JUDICIAL EL ORO",
+        "casos": 10,
         "bbox": [
           [
             -79.99063,
@@ -1941,8 +1986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.98765,
-          -3.25406
+          -79.98741,
+          -3.25452
         ]
       },
       "properties": {
@@ -1951,13 +1996,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 1",
         "CASOS": 10,
         "TIPOLOGIA": "D",
-        "PUNTO_REFERENCIAL": "PARQUE SIMON BOLIVAR",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 2169.0,
-        "DIST_BORDE_M": 334.0,
+        "PUNTO_REFERENCIAL": "CASA COMUNAL COMITE PROMEJORA",
+        "TIPO_EQUIPAMIENTO": "CASA COMUNAL",
+        "DIST_PELIGRO_M": 2162.0,
+        "DIST_BORDE_M": 311.2,
         "ETIQUETA": "46 | D",
-        "COORD_X": 612475.09,
-        "COORD_Y": 9640268.66,
+        "COORD_X": 612501.0,
+        "COORD_Y": 9640217.6,
         "num_muestra": 46,
         "sc": "46",
         "etiqueta": "46 | D",
@@ -1966,15 +2011,16 @@
         "parroquia": "PUERTO BOLIVAR",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE SIMON BOLIVAR",
+        "punto_referencial": "CASA COMUNAL COMITE PROMEJORA",
+        "casos": 10,
         "bbox": [
           [
-            -79.98765,
-            -3.25406
+            -79.98741,
+            -3.25452
           ],
           [
-            -79.98765,
-            -3.25406
+            -79.98741,
+            -3.25452
           ]
         ]
       }
@@ -2010,6 +2056,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 1",
         "canton": "MACHALA",
         "punto_referencial": "JESUS CRISTO ES EL REY",
+        "casos": 10,
         "bbox": [
           [
             -79.98919,
@@ -2053,6 +2100,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIO NACIONAL REPUBLICA DEL PERU",
+        "casos": 10,
         "bbox": [
           [
             -79.96256,
@@ -2096,6 +2144,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA 12 DE NOVIEMBRE",
+        "casos": 10,
         "bbox": [
           [
             -79.96573,
@@ -2113,8 +2162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.90106,
-          -3.28761
+          -79.8977,
+          -3.28172
         ]
       },
       "properties": {
@@ -2123,13 +2172,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "G",
-        "PUNTO_REFERENCIAL": "PARQUE DE LA PARROQUIA EL CAMBIO",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 1828.0,
-        "DIST_BORDE_M": 573.0,
+        "PUNTO_REFERENCIAL": "COLEGIO TECNICO ALEJANDRO CASTRO BENITEZ",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 1938.9,
+        "DIST_BORDE_M": 350.1,
         "ETIQUETA": "50 | G",
-        "COORD_X": 622092.58,
-        "COORD_Y": 9636548.93,
+        "COORD_X": 622466.0,
+        "COORD_Y": 9637200.1,
         "num_muestra": 50,
         "sc": "50",
         "etiqueta": "50 | G",
@@ -2138,15 +2187,16 @@
         "parroquia": "EL CAMBIO",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE DE LA PARROQUIA EL CAMBIO",
+        "punto_referencial": "COLEGIO TECNICO ALEJANDRO CASTRO BENITEZ",
+        "casos": 10,
         "bbox": [
           [
-            -79.90106,
-            -3.28761
+            -79.8977,
+            -3.28172
           ],
           [
-            -79.90106,
-            -3.28761
+            -79.8977,
+            -3.28172
           ]
         ]
       }
@@ -2156,8 +2206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.90048,
-          -3.28908
+          -79.90474,
+          -3.28649
         ]
       },
       "properties": {
@@ -2166,13 +2216,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "H",
-        "PUNTO_REFERENCIAL": "CENTRO DE SALUD EL CAMBIO",
-        "TIPO_EQUIPAMIENTO": "ESTABLECIMIENTO DE SALUD",
-        "DIST_PELIGRO_M": 1960.3,
-        "DIST_BORDE_M": 602.9,
+        "PUNTO_REFERENCIAL": "ESCUELA PARTICULAR LAS AGUILAS DEL SABER",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 1407.0,
+        "DIST_BORDE_M": 942.8,
         "ETIQUETA": "51 | H",
-        "COORD_X": 622156.45,
-        "COORD_Y": 9636386.07,
+        "COORD_X": 621683.2,
+        "COORD_Y": 9636673.5,
         "num_muestra": 51,
         "sc": "51",
         "etiqueta": "51 | H",
@@ -2181,15 +2231,16 @@
         "parroquia": "EL CAMBIO",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "CENTRO DE SALUD EL CAMBIO",
+        "punto_referencial": "ESCUELA PARTICULAR LAS AGUILAS DEL SABER",
+        "casos": 10,
         "bbox": [
           [
-            -79.90048,
-            -3.28908
+            -79.90474,
+            -3.28649
           ],
           [
-            -79.90048,
-            -3.28908
+            -79.90474,
+            -3.28649
           ]
         ]
       }
@@ -2225,6 +2276,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION GRAL. ELOY ALFARO",
+        "casos": 10,
         "bbox": [
           [
             -79.90151,
@@ -2268,6 +2320,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA CRUZ RAMIREZ DE CRUZ",
+        "casos": 10,
         "bbox": [
           [
             -79.95383,
@@ -2311,6 +2364,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "CIENCIA DE LA ESPIRITUALIDAD",
+        "casos": 10,
         "bbox": [
           [
             -79.94952,
@@ -2354,6 +2408,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "CENTRO DE EDU. INICIAL AMADA AGURTO DE GALARZA",
+        "casos": 10,
         "bbox": [
           [
             -79.94583,
@@ -2397,6 +2452,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "UNIDAD EDUCATIVA JUANA DE DIOS",
+        "casos": 10,
         "bbox": [
           [
             -79.94727,
@@ -2440,6 +2496,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "CIE MI MUNDO MAGICO",
+        "casos": 10,
         "bbox": [
           [
             -79.9446,
@@ -2457,8 +2514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93145,
-          -3.25802
+          -79.93692,
+          -3.26698
         ]
       },
       "properties": {
@@ -2467,13 +2524,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "D",
-        "PUNTO_REFERENCIAL": "PLANTA DE ASFALTO GAD MACHALA",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 427.6,
-        "DIST_BORDE_M": 1185.2,
+        "PUNTO_REFERENCIAL": "UNIDAD EDUCATIVA \"ROTARY CLUB MACHALA MODERNO\"",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 733.9,
+        "DIST_BORDE_M": 1561.0,
         "ETIQUETA": "58 | D",
-        "COORD_X": 618718.9,
-        "COORD_Y": 9639823.7,
+        "COORD_X": 618110.1,
+        "COORD_Y": 9638834.6,
         "num_muestra": 58,
         "sc": "58",
         "etiqueta": "58 | D",
@@ -2482,15 +2539,16 @@
         "parroquia": "LA PROVIDENCIA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "PLANTA DE ASFALTO GAD MACHALA",
+        "punto_referencial": "UNIDAD EDUCATIVA \"ROTARY CLUB MACHALA MODERNO\"",
+        "casos": 10,
         "bbox": [
           [
-            -79.93145,
-            -3.25802
+            -79.93692,
+            -3.26698
           ],
           [
-            -79.93145,
-            -3.25802
+            -79.93692,
+            -3.26698
           ]
         ]
       }
@@ -2526,6 +2584,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA BUENA AURORA",
+        "casos": 10,
         "bbox": [
           [
             -79.94131,
@@ -2569,6 +2628,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIO UEPRIM",
+        "casos": 10,
         "bbox": [
           [
             -79.94984,
@@ -2612,6 +2672,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "SUB CENTRO DE SALUD RAYITO DE LUZ",
+        "casos": 10,
         "bbox": [
           [
             -79.92778,
@@ -2655,6 +2716,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA EVANGELICA JESUS AMIGO FELIZ",
+        "casos": 10,
         "bbox": [
           [
             -79.94513,
@@ -2672,8 +2734,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93273,
-          -3.26993
+          -79.95213,
+          -3.26233
         ]
       },
       "properties": {
@@ -2682,13 +2744,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "A",
-        "PUNTO_REFERENCIAL": "EMPRESA ELECTRICA",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO IMPORTANTE",
-        "DIST_PELIGRO_M": 831.8,
-        "DIST_BORDE_M": 1724.0,
+        "PUNTO_REFERENCIAL": "ESCUELA DE EDUCACION BASICA \"LA PROVIDENCIA\"",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 587.6,
+        "DIST_BORDE_M": 217.1,
         "ETIQUETA": "63 | A",
-        "COORD_X": 618575.77,
-        "COORD_Y": 9638507.12,
+        "COORD_X": 616420.9,
+        "COORD_Y": 9639349.9,
         "num_muestra": 63,
         "sc": "63",
         "etiqueta": "63 | A",
@@ -2697,15 +2759,16 @@
         "parroquia": "LA PROVIDENCIA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "EMPRESA ELECTRICA",
+        "punto_referencial": "ESCUELA DE EDUCACION BASICA \"LA PROVIDENCIA\"",
+        "casos": 10,
         "bbox": [
           [
-            -79.93273,
-            -3.26993
+            -79.95213,
+            -3.26233
           ],
           [
-            -79.93273,
-            -3.26993
+            -79.95213,
+            -3.26233
           ]
         ]
       }
@@ -2741,6 +2804,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "ESCUELA DE EDUCACION BASICA PARTICULAR TIA PATTY",
+        "casos": 10,
         "bbox": [
           [
             -79.9373,
@@ -2784,6 +2848,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "IGLESIA SANTA ROSA DE LIMA",
+        "casos": 10,
         "bbox": [
           [
             -79.93497,
@@ -2827,6 +2892,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "SRI (SISTEMA DE RENTAS INTERNAS)",
+        "casos": 10,
         "bbox": [
           [
             -79.94097,
@@ -2844,8 +2910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.93342,
-          -3.26537
+          -79.9391,
+          -3.2664
         ]
       },
       "properties": {
@@ -2854,13 +2920,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "F",
-        "PUNTO_REFERENCIAL": "UNIDAD EDUCATIVA PARTICULAR MIXTA",
-        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
-        "DIST_PELIGRO_M": 408.1,
-        "DIST_BORDE_M": 1605.1,
+        "PUNTO_REFERENCIAL": "CASA COMUNAL LA AURORA",
+        "TIPO_EQUIPAMIENTO": "CASA COMUNAL",
+        "DIST_PELIGRO_M": 842.9,
+        "DIST_BORDE_M": 1422.5,
         "ETIQUETA": "67 | F",
-        "COORD_X": 618499.04,
-        "COORD_Y": 9639011.7,
+        "COORD_X": 617868.1,
+        "COORD_Y": 9638898.8,
         "num_muestra": 67,
         "sc": "67",
         "etiqueta": "67 | F",
@@ -2869,15 +2935,16 @@
         "parroquia": "LA PROVIDENCIA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "UNIDAD EDUCATIVA PARTICULAR MIXTA",
+        "punto_referencial": "CASA COMUNAL LA AURORA",
+        "casos": 10,
         "bbox": [
           [
-            -79.93342,
-            -3.26537
+            -79.9391,
+            -3.2664
           ],
           [
-            -79.93342,
-            -3.26537
+            -79.9391,
+            -3.2664
           ]
         ]
       }
@@ -2913,6 +2980,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIO DE BACHILLERATO MARIO MINUCHE",
+        "casos": 10,
         "bbox": [
           [
             -79.94014,
@@ -2956,6 +3024,7 @@
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
         "punto_referencial": "COLEGIOS DE BACHILLERATO UNE",
+        "casos": 10,
         "bbox": [
           [
             -79.94521,
@@ -2973,8 +3042,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.92467,
-          -3.27106
+          -79.92561,
+          -3.26912
         ]
       },
       "properties": {
@@ -2983,13 +3052,13 @@
         "CIRCUNSCRIPCION": "CIRCUNSCRIPCION URBANA 2",
         "CASOS": 10,
         "TIPOLOGIA": "C",
-        "PUNTO_REFERENCIAL": "PARQUE \"ANA MAR",
-        "TIPO_EQUIPAMIENTO": "PARQUE",
-        "DIST_PELIGRO_M": 950.2,
-        "DIST_BORDE_M": 1195.9,
+        "PUNTO_REFERENCIAL": "ESCUELA EDUCACION BASICA \"ING. JORGE EFREN REYES\"",
+        "TIPO_EQUIPAMIENTO": "EDIFICIO EDUCACIONAL",
+        "DIST_PELIGRO_M": 711.9,
+        "DIST_BORDE_M": 1393.7,
         "ETIQUETA": "70 | C",
-        "COORD_X": 619471.18,
-        "COORD_Y": 9638381.5,
+        "COORD_X": 619366.8,
+        "COORD_Y": 9638596.1,
         "num_muestra": 70,
         "sc": "70",
         "etiqueta": "70 | C",
@@ -2998,15 +3067,16 @@
         "parroquia": "LA PROVIDENCIA",
         "circunscripcion": "CIRCUNSCRIPCION URBANA 2",
         "canton": "MACHALA",
-        "punto_referencial": "PARQUE \"ANA MAR",
+        "punto_referencial": "ESCUELA EDUCACION BASICA \"ING. JORGE EFREN REYES\"",
+        "casos": 10,
         "bbox": [
           [
-            -79.92467,
-            -3.27106
+            -79.92561,
+            -3.26912
           ],
           [
-            -79.92467,
-            -3.27106
+            -79.92561,
+            -3.26912
           ]
         ]
       }
