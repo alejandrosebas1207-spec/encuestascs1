@@ -1,7 +1,7 @@
 {
-  "estado": "ACTIVO",
-  "version": "1.1.1",
-  "proyecto": "Encuesta Cantonal Machala",
+  "estado": "STANDBY",
+  "version": "1.1.2",
+  "proyecto": "Terminal de Supervisión en Espera",
   "canton": "Machala",
   "provincia": "El Oro",
   "modalidad": "puntos",
